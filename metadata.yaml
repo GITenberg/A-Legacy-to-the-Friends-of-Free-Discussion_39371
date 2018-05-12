@@ -1,0 +1,26 @@
+_repo: A-Legacy-to-the-Friends-of-Free-Discussion_39371
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Offen, Benjamin
+    gutenberg_agent_id: '39991'
+    url: http://www.gutenberg.org/2009/agents/39991
+description: ''
+gutenberg_issued: '2012-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39371'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible -- Criticism, interpretation, etc.'
+- !lcc 'BS'
+title: "A Legacy to the Friends of Free Discussion\r\nPrincipal Historical Facts and\
+  \ Personages of the Books Known as The Old and New Testament; With Remarks on the\
+  \ Morality of Nature"
+url: http://www.gutenberg.org/ebooks/39371
